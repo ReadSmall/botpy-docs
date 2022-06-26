@@ -2,14 +2,14 @@
     font-family: 'Harmony';
     font-weight: normal;
     font-style: normal;
-    src: url('https://cos.amiyabot.com/resource/HarmonyOS_Sans_SC.ttf')
+    src: url('./HarmonyOS_Sans_SC.ttf')
 }
 
 :root,
 html.dark {
     scroll-behavior: smooth;
 
-    --c-brand: #ba68c8;
-    --c-brand-light: #ce93d8;
+    --c-brand: #39BAE8;
+    --c-brand-light: #39BAE8;
     --font-family: -apple-system, BlinkMacSystemFont, 'Harmony', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
 }
