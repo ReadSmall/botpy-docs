@@ -12,7 +12,6 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: './favicon.ico' }]
     ],
-    base: 'botpy-docs/',
     title: 'Botpy-Docs',
     description: '简洁高效的异步 Python QQ 频道机器人框架',
     plugins: [
